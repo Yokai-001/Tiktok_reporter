@@ -2,6 +2,15 @@ import http.client
 import json
 import random
 
+try:
+    import http.client
+    import json
+    import random
+except ImportError:
+    import os 
+    os.system('pip install http')
+    os.system('pip install json')
+    
 
 video_id = input("Please put the video ID: ")
 
