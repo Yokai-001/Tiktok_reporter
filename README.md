@@ -28,9 +28,12 @@ Developer: Yokai-001
 📂 Installation
 
 git clone https://github.com/Abdalhamed258/Tiktok_reporter.git
-python 
+
+
 
 ⚙️ Usage
+
+python report.py
 
 1. أدخل معرف الفيديو (Video ID) الذي تريد اختباره.
 
