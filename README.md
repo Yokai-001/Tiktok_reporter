@@ -1,6 +1,6 @@
 TikTok Report Tool – Educational Version
 
-Developer: Yokai_001
+Developer: Yokai-001
 
 📌 About
 
@@ -28,7 +28,7 @@ Developer: Yokai_001
 📂 Installation
 
 git clone https://github.com/Abdalhamed258/Tiktok_reporter.git
-
+python 
 
 ⚙️ Usage
 
